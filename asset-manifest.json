@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/FyloLandingPage/static/css/main.dd2f46bf.css",
+    "main.js": "/FyloLandingPage/static/js/main.eee52844.js",
+    "static/js/453.1d3f2174.chunk.js": "/FyloLandingPage/static/js/453.1d3f2174.chunk.js",
+    "static/media/illustration-2.svg": "/FyloLandingPage/static/media/illustration-2.b324b94fb774ac9168ed81975d00bf9b.svg",
+    "static/media/illustration-1.svg": "/FyloLandingPage/static/media/illustration-1.6116277604b9ec95b6d3fb87653b13ce.svg",
+    "static/media/footer-logo.svg": "/FyloLandingPage/static/media/footer-logo.9d210108230c25403723e0d4c1bcc2f7.svg",
+    "static/media/logo.svg": "/FyloLandingPage/static/media/logo.866a54e86714017bd7aef91a0912839d.svg",
+    "static/media/icon-instagram.svg": "/FyloLandingPage/static/media/icon-instagram.3369c24d57d3cc0cd20de69e5b6e61c6.svg",
+    "index.html": "/FyloLandingPage/index.html",
+    "static/media/icon-twitter.svg": "/FyloLandingPage/static/media/icon-twitter.3c01091a3cb94a9a00e975a074210aaa.svg",
+    "static/media/icon-arrow.svg": "/FyloLandingPage/static/media/icon-arrow.c55952488893434f4b5ee55ca73b2911.svg",
+    "static/media/icon-facebook.svg": "/FyloLandingPage/static/media/icon-facebook.26026dad256cbc0cd54404667c76ba2f.svg",
+    "static/media/icon-phone.svg": "/FyloLandingPage/static/media/icon-phone.43c05d1a510cada2b8f305cbb2278ae4.svg",
+    "static/media/bg-curve-desktop.svg": "/FyloLandingPage/static/media/bg-curve-desktop.37e8a6453c888162376f.svg",
+    "static/media/icon-email.svg": "/FyloLandingPage/static/media/icon-email.19ab894b09784943bec7e08b3e1344a3.svg",
+    "static/media/icon-quotes.svg": "/FyloLandingPage/static/media/icon-quotes.fefaf075deb7ea02d1f34e3bb4c10291.svg",
+    "main.dd2f46bf.css.map": "/FyloLandingPage/static/css/main.dd2f46bf.css.map",
+    "main.eee52844.js.map": "/FyloLandingPage/static/js/main.eee52844.js.map",
+    "453.1d3f2174.chunk.js.map": "/FyloLandingPage/static/js/453.1d3f2174.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd2f46bf.css",
+    "static/js/main.eee52844.js"
+  ]
+}
